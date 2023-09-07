@@ -1,1 +1,1 @@
-# News-Web-Application
+This project is a web-based news application that utilizes the News API to fetch and display news articles. The user interface includes a navigation bar with category options and a search bar for custom queries. JavaScript dynamically loads news cards with titles, descriptions, sources, and images based on user interactions. CSS styles enhance the design and responsiveness of the webpage. It offers a user-friendly platform for accessing and exploring news articles.
